@@ -1,4 +1,4 @@
-# partlycloudy / terraform
+# partlycloudy / terraform-digital-ocean
 
 ## Overview
 Bootstrap Digital Ocean with Terraform! When complete the following Digital Ocean resources will be created:

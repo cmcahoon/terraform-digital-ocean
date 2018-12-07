@@ -1,0 +1,8 @@
+# Project specific terraform downloads, like providers
+.terraform/
+
+# Secret variables
+secrets.auto.tfvars
+
+# Terraform state
+terraform.tfstate*
